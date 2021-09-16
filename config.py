@@ -1,6 +1,6 @@
 # COPY THIS FILE INTO A FILE CALLED config.py AND CHANGE THE VALUES AS NEEDED.
 # discord API bot token https://discord.com/developers/applications
-bot_token = "EXAMPLE_TOKEN"
+bot_token = "ODg4MTg0NzgzMzI5NDMxNTYy.YUPAig.PRJpXgW8ZYcriCsWLhQ0VzYq_rA"
 # tenor API key https://tenor.com/developer/keyregistration
 tenor_key = "EXAMPLE_KEY"
 # BotBlock tokens. see https://pypi.org/project/discordlists.py/
@@ -50,9 +50,9 @@ emojis = {
 }
 # up to 25 tips that can show when using $help tips. type \n for a newline
 tips = {
-    "Media Searching": "MediaForge automatically searches for any media in a channel. Reply to a message with the command to search that message first.",
-    "File Formats": "MediaForge supports static image formats like PNG, animated image formats like GIF, and video formats like MP4.",
-    "Self-Hosting": "MediaForge is completely open source and anyone can host a clone themself!\nhttps://github.com/HexCodeFFF/mediaforge"
+    "idk whabt to put here": "give me your credit card information uwu",
+    "jonah": "jonah is strong(maybe)",
+    "big balls": "big balls"
 }
 # the directory to store temporary files in. must end with a slash.
 temp_dir = "temp/"
@@ -67,7 +67,7 @@ blocked_words = []
 # filename of the sqlite3 database. currently only used for storing server-specific prefixes.
 db_filename = "database.db"
 # default prefix for commands
-default_command_prefix = "$"
+default_command_prefix = "bruh"
 # this url will be sent a periodic request. this is designed to be used with an uptime monitoring service
 heartbeaturl = None
 # how often (in seconds) to request the heartbeat url
